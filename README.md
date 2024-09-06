@@ -1,6 +1,6 @@
 Hi, my name is Abhijit
 my age is 23
-i am from Guwaqhati
+i am from Guwahati
 
 
 
